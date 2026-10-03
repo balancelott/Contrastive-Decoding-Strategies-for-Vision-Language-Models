@@ -10,6 +10,7 @@ Trong đó $\alpha$ là một siêu tham số để điều chỉnh logits của
 
 Cấu trúc repo đề xuất 
 
+```text
 cd-vlm/
 ├── README.md
 ├── requirements.txt
@@ -30,3 +31,4 @@ cd-vlm/
 ├── notebooks/
 │   └── kaggle_llava.ipynb      # notebook mỏng, chỉ clone repo và gọi hàm
 └── results/                    # (làm sau) kết quả đánh giá, file nhỏ dạng json
+```
